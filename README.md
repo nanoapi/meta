@@ -8,7 +8,7 @@
 
 ## Clone the meta repository
 
-`meta git clone git@github.com:nanoapi/meta.git`
+`meta git clone https://<username>@github.com/nanoapi/meta.git`
 
 ## Sync registered repositories
 
