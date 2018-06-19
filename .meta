@@ -1,6 +1,6 @@
 {
   "projects": {
-    "pages": "https://github.com/nanoapi/nanoapi.github.io.git",
+    "nanoapi.github.io": "https://github.com/nanoapi/nanoapi.github.io.git",
     "protobuf": "https://github.com/nanoapi/protobuf.git",
     "api-c": "https://github.com/nanoapi/api-c.git",
     "api-python": "https://github.com/nanoapi/api-python.git",
