@@ -14,12 +14,18 @@ To simplify development of the Nano Node API, the meta tool can be used. This is
 
 This will clone all API related repositories under the meta directory.
 
-## Sync registered repositories
+## Use git commands
+
+Pull in changes
 
 `meta git pull`
+
+What has changed? This ignores untracked files and displays in short mode:
+
+`meta git status -s -u no`
 
 ## Execute arbitrary commands across repositories
 
 As an example, the following command will generate Protobuffer code for all language bindings, based on the most recently committed protobuf specification.
 
-meta exec ci/protobuf-gen.sh
+`meta exec ci/protobuf-gen.sh`
