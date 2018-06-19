@@ -1,5 +1,9 @@
 {
   "projects": {
-    "pages": "git@github.com:nanoapi/nanoapi.github.io"
+    "pages": "git@github.com:nanoapi/nanoapi.github.io",
+    "protobuf": "git@github.com:cryptocode/protobuf",
+    "api-c": "git@github.com:cryptocode/api-c",
+    "api-python": "git@github.com:cryptocode/api-python",
+    "api-go": "git@github.com:cryptocode/api-go"
   }
 }
